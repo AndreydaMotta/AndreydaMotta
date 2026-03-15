@@ -15,4 +15,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
 ## 📫 Contato
-- [![Gmail](https://img.shields.io/badge/Gmail-Enviar%20Email-red?style=for-the-badge&logo=gmail)](mailto:cyrineoal@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-Enviar%20Email-red?style=for-the-badge&logo=gmail)](mailto:cyrineoa@gmail.com)
