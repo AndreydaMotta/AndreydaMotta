@@ -2,7 +2,8 @@
 
 ## 🧑 Sobre mim
 - 🎓 Estudante de Tecnologia da Informação
-- 🚀 Aprendendo programação e desenvolvimento web
+- 📚 Sempre buscando aprender novas tecnologias
+- 🌐 Conhecimentos básicos em Python, HTML e CSS
 
 ## 💻 Tecnologias que estudo 
 <div style="display: inline_block"><br>
